@@ -77,7 +77,7 @@ This project implements a complete Market Basket Analysis pipeline using the Apr
 
 ---
 
-### 4. **[Team Member 4]** - Closed Frequent Itemsets Identification
+### 4. **Kendi (807)** - Closed Frequent Itemsets Identification
 **Responsibility:** Section 4 - Closed Itemset Analysis
 
 **Implementation Logic:**
