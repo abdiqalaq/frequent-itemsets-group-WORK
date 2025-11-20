@@ -428,7 +428,7 @@ For questions or collaboration:
 - **Abdiqalaq:** abdiqalaq99@gmail.com 
 - **Bradley Ochola:** ocholabrad@gmail.com 
 - **Sammi Oyabi:** smaoyabi@gmail
-- **Team Member 4:** 
+- **Kendi Nyaga:** kendynyaga@gmail.com
 - **Team Member 5:** 
 
 ---
