@@ -141,7 +141,7 @@ closed_itemsets.to_csv("closed_itemsets.csv", index=False)
 
 ---
 
-### 5. **[Team Member 5]** - Maximal Frequent Itemsets Identification
+### 5. **Victor Kipngeno (388)** - Maximal Frequent Itemsets Identification
 **Responsibility:** Section 5 - Maximal Itemset Analysis
 
 **Implementation Logic:**
@@ -429,7 +429,7 @@ For questions or collaboration:
 - **Bradley Ochola:** ocholabrad@gmail.com 
 - **Sammi Oyabi:** smaoyabi@gmail
 - **Kendi Nyaga:** kendynyaga@gmail.com
-- **Team Member 5:** 
+- **Victor Kipngeno:** victorkipngenorotich21@gmail.com 
 
 ---
 
